@@ -1,0 +1,15 @@
+User-agent: ChatGPT
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: googlebot-ai
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+# no ai but normal google is fine :3
+User-agent: Googlebot
+Allow: /
