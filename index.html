@@ -2,9 +2,15 @@
 <html>
   <head>
     <title>Redirect test</title>
-    <script>window.location.replace("http://emanperson.github.io/cookie-click-thing");</script>
+    <script>window.location.replace("http://emanperson.github.io/cookie-click-thing");
+    function redirect(){
+      window.location.replace("http://emanperson.github.io/cookie-click-thing");
+    }
+    </script>
   </head>
   <body>
-    <h1>Redirect not setup, but not 404!</h1>
+    <h1>Redirecting...</h1>
+    <p>if you have been on this page for 5 or more seconds, the redirect likely failed.</p>
+    <button onclick="redirect()">Try again</button>
   </body>
 </html>
