@@ -1,1 +1,1 @@
-litirally just a redirect for now until i make more stuff
+because i have more than one thing its now not an instant redirect
