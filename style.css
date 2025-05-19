@@ -3,7 +3,7 @@
   transition: all 0.8s ease;
   font-family: "Ubuntu", sans-serif;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: strech;
 }
 
 body {
