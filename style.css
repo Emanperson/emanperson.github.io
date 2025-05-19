@@ -2,8 +2,8 @@
 * {
   transition: all 0.8s ease;
   font-family: "Ubuntu", sans-serif;
-  background-repeat: no-repeat;
-  background-size: strech;
+
+
 }
 
 body {
@@ -14,6 +14,7 @@ body {
   background-image: url("https://512pixels.net/downloads/macos-wallpapers/10-9.jpg");
   background-size: cover;
   background-position: center;
+    background-repeat: no-repeat;
   transition: 0.5s ease;
 }
 
