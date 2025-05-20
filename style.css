@@ -57,6 +57,9 @@ button:hover {
 }
 
 img {
-  height: 20 px;
-  width: 20 px;
+  height: 20px;
+  width: 20px;
+}
+main {
+   display: flex
 }
